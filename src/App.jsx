@@ -1,9 +1,11 @@
 import React from "react";
+import resumePdf from "./assets/Manusree_Gurijala_SDE_Resume.pdf";
+
 
 export default function App() {
   // IMPORTANT: Put your resume inside public folder
   // public/Manusree_Gurijala_SDE_Resume.pdf
-  const resumeFile = "/Manusree_Gurijala_SDE_Resume.pdf";
+  const resumeFile = resumePdf;
 
   return (
     <div style={styles.container}>
