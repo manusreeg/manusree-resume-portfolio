@@ -1,5 +1,5 @@
-import React from "react";
 import resumePdf from "./assets/Manusree_Gurijala_SDE_Resume.pdf";
+import React from "react";
 
 
 export default function App() {
